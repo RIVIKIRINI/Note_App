@@ -21,6 +21,5 @@ efficient architecture.
   polished look
 
 
-<img src="https://github.com/RIVIKIRINI/Note_App/assets/152923663/227730eb-9671-476e-909a-abfbcd28482e" width="200" alt="Task Creation Screen">
 <img src="https://github.com/RIVIKIRINI/Note_App/assets/152923663/589d2e86-23fa-44a5-8de2-dd22a751ffad" width="200" alt="Task Creation Screen">
-
+<img src="https://github.com/RIVIKIRINI/Note_App/assets/152923663/227730eb-9671-476e-909a-abfbcd28482e" width="200" alt="Task Creation Screen">
