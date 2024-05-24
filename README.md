@@ -20,6 +20,7 @@ efficient architecture.
   and task details screens. The design adheres to Android's Material Design guidelines for a cohesive and 
   polished look
 
-![WhatsApp Image 2024-05-24 at 7 21 29 PM (1)]("https://github.com/RIVIKIRINI/Note_App/assets/152923663/227730eb-9671-476e-909a-abfbcd28482e")
+
 <img src="https://github.com/RIVIKIRINI/Note_App/assets/152923663/227730eb-9671-476e-909a-abfbcd28482e" width="200" alt="Task Creation Screen">
-![WhatsApp Image 2024-05-24 at 7 21 29 PM](https://github.com/RIVIKIRINI/Note_App/assets/152923663/589d2e86-23fa-44a5-8de2-dd22a751ffad)
+<img src="https://github.com/RIVIKIRINI/Note_App/assets/152923663/589d2e86-23fa-44a5-8de2-dd22a751ffad" width="200" alt="Task Creation Screen">
+
